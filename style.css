@@ -1,0 +1,12 @@
+
+.jumbotron {
+    padding-top: 2rem;
+    background-color:rgb(205, 226, 245);
+}
+
+#favorite {
+    background-color:rgb(205, 226, 245);
+}
+ section {
+    padding-top: 5rem;
+ }
